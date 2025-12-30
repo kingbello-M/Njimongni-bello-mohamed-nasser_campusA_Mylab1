@@ -1,0 +1,45 @@
+#p1{
+    margin-top: 0px;
+    background-color: aqua;
+    color: brown;
+    border-width: 50px;
+    padding: 10px;
+    border-color: black;
+    border: 5px solid;
+    margin-left: 50px;
+    width: 250px;
+    
+
+}
+#p2 {
+    margin:0px;
+    background-color: aqua;
+    color: brown;
+    border-width: 60px;
+    padding: 3px;
+    border-color: black;
+    margin-block-end: 0cqh;
+    border: 5px solid;
+    width: 200px;
+}
+#p3 {
+    background-color: rgb(216, 226, 27);
+    color: brown;
+    border-width: 60px;
+    padding: 30px;
+    border-color: black;
+    width: 200px;
+    border: 6px solid;
+    margin-left:auto;
+    margin-right: auto;
+    
+
+}
+body{
+    background-image: url(./pictures/IMG-20251012-WA0010.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: left;
+    
+}
